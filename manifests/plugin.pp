@@ -1,3 +1,5 @@
+# Defined type to install plugins for a user
+
 define vim::plugin (
   $user,
   $url,
